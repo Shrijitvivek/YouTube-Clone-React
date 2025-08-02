@@ -91,7 +91,18 @@ const videos = [
 			"channelImage": "https://thumbs.dreamstime.com/b/javascript-icon-logo-javascript-often-abbreviated-as-js-programming-language-conforms-to-ecmascript-specification-204759326.jpg",
 			"channel": "JS",
 			"image": "https://www.reachfirst.com/wp-content/uploads/2018/08/Web-Development.jpg"
-		}
+		},
+    {
+			"id": 10,
+			"title": "How to become a web developer",
+			"views": "2.3M Views",
+			"viewsCount": 2300000,
+			"timestamp": "3 days ago",
+			"url": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+			"channelImage": "https://img.indiefolio.com/fit-in/1100x0/filters:format(webp):fill(transparent)/project/body/714da1692e8f8d34baff1457ecab1e02.png",
+			"channel": "Adil Hossain",
+			"image": "https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png"
+		},
   
 ]
 
